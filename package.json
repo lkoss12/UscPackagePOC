@@ -1,0 +1,19 @@
+{
+  "name": "@lkoss12/uscpackagepoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkoss12/UscPackagePOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkoss12/UscPackagePOC/issues"
+  },
+  "homepage": "https://github.com/lkoss12/UscPackagePOC#readme"
+}
